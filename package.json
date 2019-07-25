@@ -1,5 +1,5 @@
 {
-  "name": "@hugoct/npm-publish-test",
+  "name": "hugo-npm-publish-test",
   "version": "1.0.5",
   "description": "A test to learn howw to publish to npm",
   "repository": {
