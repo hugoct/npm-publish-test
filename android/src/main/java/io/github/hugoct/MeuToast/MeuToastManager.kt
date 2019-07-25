@@ -1,4 +1,4 @@
-package com.reactnative_kotlin_bridge.MeuToast
+package io.github.hugoct.MeuToast
 
 import android.widget.Toast
 import com.facebook.react.bridge.ReactApplicationContext
